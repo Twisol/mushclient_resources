@@ -29,3 +29,8 @@ Thumbs.db
 #
 
 CVS
+
+#
+# VS2005 user-specific files
+#
+*.vcproj.*
